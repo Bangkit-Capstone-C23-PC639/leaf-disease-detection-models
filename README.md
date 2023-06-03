@@ -21,16 +21,6 @@ The dataset contains images in JPEG format (.jpg) and has been used to train and
 
 The machine learning model used in this repository is based on Convolutional Neural Networks (CNN), a powerful architecture for image classification tasks. The specific implementation details of the CNN model can be found in the code provided.
 
-## Usage
-
-To use the model, you can follow these steps:
-
-1. Clone this repository to your local machine.
-2. Install the required dependencies as mentioned in the repository's documentation.
-3. Run the code provided to load the trained model and classify rice leaf images.
-
-Please refer to the documentation and code within the repository for detailed instructions on how to use the model and make predictions.
-
 ## Citation
 
 If you use this model or the dataset in your research work or any other projects, please consider citing the original dataset source or the repository where you obtained the code.
